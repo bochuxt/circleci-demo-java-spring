@@ -27,4 +27,6 @@ public class QuoteController {
         quoteRepository.save(q);
         return "Saved";
     }
+
+
 }
